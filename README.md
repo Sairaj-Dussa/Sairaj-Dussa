@@ -1,5 +1,4 @@
-<h1 align="center"> Hi Dev <img align="center" alt="Coding" width="50" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-👋, I'm Sairaj</h1>
+<h1 align="center"> Hi there👋, I'm Sairaj</h1>
 <h3 align="center">Student at TKR College of Engineering Of Technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
